@@ -1,0 +1,23 @@
+name: stitch_design_app
+description: A Flutter app for trading login and Pro version upgrade
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Add other packages here if needed
+  # google_fonts: ^6.1.0
+  # flutter_svg: ^2.0.7
+  # shared_preferences: ^2.0.15
+  # url_launcher: ^6.1.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
